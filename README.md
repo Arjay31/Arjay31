@@ -20,8 +20,6 @@
 
 ### How to Reach Me
 - 📫 Email: armandreboton378@gmail.com
-- 🐦 Twitter: none
-- 📘 Facebook: Armand jay reboton
 
 ### Tools
 ![Git Icon](https://img.icons8.com/color/48/000000/git.png) ![Arduino Icon](https://img.icons8.com/color/48/000000/arduino.png) ![Raspberry Pi Icon](https://img.icons8.com/color/48/000000/raspberry-pi.png)
