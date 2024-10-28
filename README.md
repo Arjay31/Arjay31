@@ -22,8 +22,7 @@
 - 📫 Email: armandreboton378@gmail.com
 
 ### Tools
-![Git Icon](https://img.icons8.com/color/48/000000/git.png) ![Arduino Icon](https://img.icons8.com/color/48/000000/arduino.png) ![Raspberry Pi Icon](https://img.icons8.com/color/48/000000/raspberry-pi.png)
-  
+![Git Icon](https://img.icons8.com/color/48/000000/git.png) ![Arduino Icon](https://img.icons8.com/color/48/000000/arduino.png)
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arjay31&show_icons=true&theme=radical) 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arjay31&theme=radical)
